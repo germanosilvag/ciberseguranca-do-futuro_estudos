@@ -46,6 +46,16 @@ Quais mentes influentes, fontes confiáveis e livros são indispensáveis para q
 
 Prompt 2
 Me de fontes confiáveis, mentes extraordinárias e livros sobre SecOps.
+1) MITRE ATT&CK
+Para quem trabalha com Wazuh, Splunk, Sentinel, regras de correlação e hunting, esse site é praticamente obrigatório.
+2) CISA Cybersecurity Advisories
+É muito útil para rotina de priorização de riscos, resposta a incidentes e atualização de playbooks no SOC.
+3) SANS Internet Storm Center
+É um site que ajuda bastante a manter a cabeça em operação, detecção e investigação, e não só em teoria.
+
+MITRE ATT&CK → estrutura detecção, hunting e cobertura de técnicas
+CISA → ajuda em priorização, alertas e defesa prática
+SANS ISC → ajuda no dia a dia operacional do SOC
 
 Variação do Prompt2
 Me indique três especialistas, três sites confiáveis e três livros de referência sobre Security Operations (SecOps).
