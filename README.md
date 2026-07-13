@@ -278,7 +278,7 @@ Explique o conceito de cibersegurança utilizando uma linguagem clara e didátic
 Faça um resumo estruturado sobre cibersegurança em no máximo 10 tópicos. Destaque apenas os conceitos mais importantes para revisão antes de uma prova ou entrevista técnica.
 
 # Prompt3
-Compare SOC, NOC e SNOC em uma tabela contendo: objetivo, funcionamento, vantagens, limitações, principais casos de uso e exemplos de ferramentas
+Compare SOC, NOC e SNOC em uma tabela contendo: objetivo, funcionamento, vantagens, limitações, principais casos de uso e exemplos de ferramentas.
 
 # Prompt4
 Liste as principais boas práticas utilizadas por profissionais do ambiente bancário em Cibersegurança, explicando por que cada uma é importante, quais riscos reduz e como pode ser implementada em ambientes corporativos.
