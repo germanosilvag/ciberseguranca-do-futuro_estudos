@@ -3,10 +3,10 @@
 ## Tema
 SecOps e Cibersegurança
 
-## Contexto
+## 1. Contexto
 Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sobre SecOps e Cibersegurança, reunindo mateiais e fontes confiáveis em um único ambiente.
 
-## Objetivos
+## 2. Objetivos
 
 - Compreender os conceitos de ambos os temas, SecOps e Cibergurança de forma clara e didática;
 - Estudar as principais ferramenteas utilizadas para operar nesses ambientes;
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sob
 - Criar um guia de fácil acesso para futuras revisões e melhorias contínuas;
 - Praticar engenharia de prompts utilizando a IA nesse mercado que é extremamente criterioso e cuidadoso;
 
-## Curadoria de Fontes
+## 3. Curadoria de Fontes
 As seguintes fontes abertas foram utilizadas:
 
 1. Blue Team Handbook Incident Response Edition Don Murdoch
@@ -24,7 +24,7 @@ As seguintes fontes abertas foram utilizadas:
 5. Relatório Técnico_ Operações de Segurança (SecOps) no Ecossistema Microsoft
 6. Resumo Técnico Estratégico_ Framework MITRE ATT&CK para Defesa Proativa
 
-## Engenharia de Prompts
+## 4. Engenharia de Prompts e as Dificuldades
 
 Prompt 1
 Me de fontes confiáveis, mentes extraordinárias e livros sobre Segurança da Informação.
@@ -68,3 +68,5 @@ Quais são as melhores referências para pesquisa em SecOps, contemplando especi
 ## Estratégias utilizadas
 - Solicitei um resumo o pontos chaves mais utilizados pelos especialistas da área
 - Pedi exemplos e sites mais confiáveis e atualizados
+
+## 5.
